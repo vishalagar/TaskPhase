@@ -1,0 +1,13 @@
+To complete this we will first need to download VM for linux. 
+
+Level 0: The objective of this level is to log in to the game using the provided username and password. You will need to use the ssh command to connect to the game server.
+
+Level 1: The objective of this level is to read a file called "readme" and find the password for the next level. You will need to use the ls command to list the files in the current directory, and the cat command to display the contents of a file.
+
+Level 2: The objective of this level is to find a file called "-". You will need to use the find command to search for files by name.
+
+Level 3: The objective of this level is to find a file in a hidden directory called ".hidden". You will need to use the ls command with the -a flag to show hidden files and directories.
+
+Level 4: The objective of this level is to find a file called "inhere" that is 1033 bytes in size. You will need to use the ls command with the -l flag to show detailed file information, and the grep command to search for specific patterns in the output.
+
+Level 5: The objective of this level is to find a file called "inhere" that is owned by user "bandit5". You will need to use the find command with the -user flag to search for files owned by a specific user.
