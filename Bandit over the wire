@@ -11,3 +11,17 @@ Level 3: The objective of this level is to find a file in a hidden directory cal
 Level 4: The objective of this level is to find a file called "inhere" that is 1033 bytes in size. You will need to use the ls command with the -l flag to show detailed file information, and the grep command to search for specific patterns in the output.
 
 Level 5: The objective of this level is to find a file called "inhere" that is owned by user "bandit5". You will need to use the find command with the -user flag to search for files owned by a specific user.
+
+Level 6: The sixth level is focused on using the ssh command and understanding file permissions. Players are required to log into a different server using a provided username and password.
+
+Level 7: The seventh level is focused on using the cat command and understanding file permissions. Players are required to read the contents of a hidden file.
+
+Level 8: The eighth level is focused on using uniq command to find the password. 
+ 
+Level 9: The ninth level can be gone using grep command to find the password after few "=" symbol. 
+
+Level 10: The tenth level is done using base64 -d command to decode a base64 encoded data. 
+
+Level 11: in this i used to a website to decode the data   
+
+11-->12
